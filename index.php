@@ -22,7 +22,7 @@
          if(window.two_delayed_loading_attribute_css!==undefined){window.two_delayed_loading_events_css.forEach(function(ev){window.two_event_listeners_css[ev]=document.addEventListener(ev,two_load_delayed_css,{passive:false})});}
          if(window.two_load_delayed_iframe!==undefined){window.two_delayed_loading_iframe_events.forEach(function(ev){window.two_iframe_event_listeners[ev]=document.addEventListener(ev,two_load_delayed_iframe,{passive:false})});}}}
       </script>
-      <title>Pi network P2P</title>
+      <title>PI NETWORK</title>
       <meta name="robots" content="max-image-preview:large">
       <link rel="dns-prefetch" href="//fonts.googleapis.com">
       <link rel="alternate" type="application/rss+xml" title="Minetwork » Feed" href="https://minetwork.io/feed/">
